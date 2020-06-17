@@ -1,6 +1,6 @@
 # opencvLib
 
-
+### 该库是自己封装生成的库，涉及公司协议不方便给出源码，有问题或者其他情况可以私聊留言。
 ### 包含opencv的静态库 OpenCVLibz.framework是真机release、 OpenCVLibm.framework是模拟器release、 OpenCVLib.framework是合并真机和模拟器release
 
 #### 使用opencv实现对图片明水印、暗水印、信息存储像素、傅里叶转换等
