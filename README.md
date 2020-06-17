@@ -1,13 +1,13 @@
 # opencvLib
 
 
-###包含opencv的静态库 OpenCVLibz.framework是真机release、 OpenCVLibm.framework是模拟器release、 OpenCVLib.framework是合并真机和模拟器release
+### 包含opencv的静态库 OpenCVLibz.framework是真机release、 OpenCVLibm.framework是模拟器release、 OpenCVLib.framework是合并真机和模拟器release
 
-####使用opencv实现对图片明水印、暗水印、信息存储像素、傅里叶转换等
+#### 使用opencv实现对图片明水印、暗水印、信息存储像素、傅里叶转换等
 
-####不是太懂得可以查看下文章：[OpenCV-图像处理-频域手段添加盲水印](https://www.jianshu.com/p/62e52c4ab5c4)
+#### 不是太懂得可以查看下文章：[OpenCV-图像处理-频域手段添加盲水印](https://www.jianshu.com/p/62e52c4ab5c4)
 
-#####调用方法
+##### 调用方法
 
 ```
 //添加使用傅里叶转换添加的标示
